@@ -4,7 +4,7 @@ public class Combined {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
- 
+   // changes apply for gits
 		String name;
 		byte rollnumber;
 		int age;
